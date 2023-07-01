@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="4bea2d20-10d2-4856-986b-87431e254dc0" namespace="SosyalYardim.Module.BusinessObjects.Biz" dataBaseShemaInfo="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" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" createdInVersion="23.1.3.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="23.1.3.0" name="Biz" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="2cdfebae-e353-489d-873c-1ff821596479">
+      <xpObject Id="163a4bb2-3856-436f-a829-9b3cf27563c1" name="Hane" baseClass="XPObject" userFileName="Hane" designerFileName="Hane.Designer" className="Hane" virtualName="Hane">
+        <fields>
+          <generalXpObjectHasFields Id="280da5fb-178c-4f9e-9152-0a8e3c0c8977">
+            <field Id="bcd15d12-b078-4672-9c21-cd9ce1939b91" name="Enlem" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="81525cda-de76-4bc4-9531-8681ad61b2d9">
+            <field Id="bc55bb04-90f5-4bdd-9b4e-84451e01dae0" name="Boylam" columnType="Decimal" virtualColumnType="Decimal" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="195ece8c-2b28-43cc-9d23-2075ea79c842">
+            <field Id="5e24b0a4-f1e1-4dd5-acd9-20f148841f59" name="UAVT" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="63a3bb49-3d16-437d-9c4f-25a847d4502c">
+            <field Id="307d555c-fba6-4e72-92fe-6e26e1af8eb3" name="Lokasyon" virtualColumnType="Lokasyon" logicalType="Lokasyon" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="ec66da29-16d3-426d-834f-e635d11556a0" sourceCollectionName="Kisiler" name="KisiReferencesHane" targetFieldName="Hane">
+            <xpObjectMoniker Id="806e112d-48e2-4579-9593-49bb121f7ca9" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="928ccc05-a45c-489f-a717-d1decbd99e6c">
+            <collectionField Id="f45a9028-ed49-4fe8-81ec-b27803dc30b3" name="Kisiler" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="6592bad7-6e8d-421d-ae40-4068a9f5ba00">
+      <xpObject Id="806e112d-48e2-4579-9593-49bb121f7ca9" name="Kisi" baseClass="XPObject" userFileName="Kisi" designerFileName="Kisi.Designer" className="Kisi" virtualName="Kisi">
+        <fields>
+          <generalXpObjectHasFields Id="81cd50f6-18c4-480a-bec3-27300f12328d">
+            <field Id="61480b30-c41a-4ff6-8c70-cbab2d6e3072" name="Ad" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="f9dd3d58-7456-46c2-aa0e-e9199980edb7">
+            <field Id="0def0dbb-5ddd-43ff-8d03-31d94bab4672" name="Soyad" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d6ddaa52-26d7-4f72-b771-54d6b2b751af">
+            <field Id="e8858e9e-fe25-4846-8b41-16be2c05a630" name="TCNo" columnType="Int32" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e584ebcb-2466-474d-abb9-17f818091675">
+            <field Id="bad1e020-cd3d-449d-bebf-1d9bdc17ae7b" name="Hane" virtualColumnType="Hane" logicalType="Hane" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="369b28cd-46ed-42c7-bbec-225e0b948cc5">
+      <xpObject Id="c8b1809e-ce05-4972-8488-ac2072b9ee5a" name="Mahalle" baseClass="XPObject" userFileName="Mahalle" designerFileName="Mahalle.Designer" className="Mahalle" virtualName="Mahalle">
+        <fields>
+          <generalXpObjectHasFields Id="a2941aa7-6c97-418b-99af-8a935a69eaea">
+            <field Id="19bc0c83-f16c-4b35-877b-6c1fb172cb0c" name="Ad" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="1cbe645d-dab2-44a8-a448-474cd7b7aa55">
+            <field Id="d1172a08-030a-4b0e-ad9e-e219b0f19c8f" name="Ilce" virtualColumnType="Ilce" logicalType="Ilce" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="705a18ab-ff27-4726-9d6e-cf332d61e9c3">
+            <field Id="66af2751-3bd6-45b6-9a7f-18ab8a54b29f" name="UAVT" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="50ea8af3-8dc1-468a-8305-8695e8dc3321" sourceCollectionName="Lokasyonlar" name="LokasyonReferencesMahalle" targetFieldName="Mahalle">
+            <xpObjectMoniker Id="88486b1c-852a-4690-a63c-5eabba29c5c1" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="16da78aa-e734-4631-836c-f5dd1042a30c">
+            <collectionField Id="a0a26718-4706-46f8-99e4-1c0437a1ecc7" name="Lokasyonlar" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="fa1f12fa-dd9d-49d8-ae6a-9557e47b4ab0">
+      <xpObject Id="88486b1c-852a-4690-a63c-5eabba29c5c1" name="Lokasyon" baseClass="XPObject" userFileName="Lokasyon" designerFileName="Lokasyon.Designer" className="Lokasyon" virtualName="Lokasyon">
+        <fields>
+          <generalXpObjectHasFields Id="d71c49c9-566b-432a-8754-83bbbf532e0a">
+            <field Id="2613a24b-e44f-4420-bf4a-22c18b7c5930" name="Ad" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="3c3ea592-c550-457f-bd62-12b72d30bbd1">
+            <field Id="57dc4634-a593-49d6-8bd3-eb6dfafc6e0f" name="Mahalle" virtualColumnType="Mahalle" logicalType="Mahalle" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e6a3ac8e-1898-46fa-807b-bd85fa68b881">
+            <field Id="ad2e826a-f503-4b5a-abc6-cd60299b20e0" name="UAVT" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="78ff7c96-3d35-43c2-8ec5-3a1edc564bf7" sourceCollectionName="Haneler" name="HaneReferencesLokasyon" targetFieldName="Lokasyon">
+            <xpObjectMoniker Id="163a4bb2-3856-436f-a829-9b3cf27563c1" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="11104398-7cf0-47ac-974f-33b4883ad06b">
+            <collectionField Id="8d709351-52eb-40fa-8964-ab1c1bbafc61" name="Haneler" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="fa77cce6-ef57-43a9-96bd-e3d21597feee">
+      <xpObject Id="3e523d48-19af-4d54-8dab-dde8ce06e9ef" name="Ilce" baseClass="XPObject" userFileName="Ilce" designerFileName="Ilce.Designer" className="Ilce" virtualName="Ilce">
+        <fields>
+          <generalXpObjectHasFields Id="d7491ec7-a0b6-41ec-8053-650b0ab06d3f">
+            <field Id="1b916bf5-68a7-467e-906e-988d6b4d7ea5" name="Ad" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6e19f84a-6572-49e0-816b-5822b57ed840">
+            <field Id="619591c3-bec5-4e73-8b63-0b1df5699e10" name="Il" virtualColumnType="Il" logicalType="Il" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="02a0bd93-93e2-4ac9-afa4-933642d13cc2">
+            <field Id="7fa26ceb-394c-46ad-b8b6-74696c6e6a8b" name="UAVT" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="4c166679-9f47-4316-b06a-119bbf6ab77f" sourceCollectionName="Mahalles" name="MahalleReferencesIlce" targetFieldName="Ilce">
+            <xpObjectMoniker Id="c8b1809e-ce05-4972-8488-ac2072b9ee5a" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="6a56ff01-791d-459c-96f6-a03b166a8240">
+            <collectionField Id="9e5e9d5b-da57-44aa-a3ee-66b5af8f38ed" name="Mahalles" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="fd0b7851-18a6-4f79-9b46-bd2617239496">
+      <xpObject Id="03c184ff-09dc-44dd-86ad-49591d22b010" name="Il" baseClass="XPObject" userFileName="Il" designerFileName="Il.Designer" className="Il" virtualName="Il">
+        <fields>
+          <generalXpObjectHasFields Id="f0750032-9c49-4616-bfb4-b5abe0ba6dae">
+            <field Id="35527aba-3e2d-420a-858b-7a007646da62" name="Ad" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9b4cfb39-3f51-4412-b953-79c08124542e">
+            <field Id="4022a4a9-020a-466f-8f3d-768aa126e627" name="UAVT" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="b2224b57-9d62-48ef-b5f4-ab4be26afe64" sourceCollectionName="Ilceler" name="IlceReferencesIl" targetFieldName="Il">
+            <xpObjectMoniker Id="3e523d48-19af-4d54-8dab-dde8ce06e9ef" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="5417715a-f60f-49c9-adb3-4402fd26a799">
+            <collectionField Id="d315c1c8-c5fa-43a9-ab60-3d6c922223a4" name="Ilceler" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="65c1e0cf-f6e9-47e4-bdb1-94bc27227e45">
+      <xpObject Id="24225dea-6db1-490e-8bcb-655d0f1f6511" name="YardimTipi" baseClass="XPObject" userFileName="YardimTipi" designerFileName="YardimTipi.Designer" className="YardimTipi" virtualName="YardimTipi">
+        <fields>
+          <generalXpObjectHasFields Id="5b3e66f0-5328-4e60-b340-41407a9f2b3c">
+            <field Id="99ed8d2a-3705-4c11-9c75-41a0fc232d2b" name="Ad" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="3dd6c944-e8af-4005-8ee2-d53eea9d5e4f" sourceCollectionName="Yardimlar" name="YardimReferencesYardimTipi" targetFieldName="YardimTipi">
+            <xpObjectMoniker Id="a38ba574-5976-4c48-82ae-3cec8396ba0f" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="11028c33-8a61-4110-9619-420400e7feba">
+            <collectionField Id="8b67bc30-9861-4b50-89c6-bad00736ca38" name="Yardimlar" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="74870595-538f-47c6-a7fd-df6f517806c6">
+      <xpObject Id="a38ba574-5976-4c48-82ae-3cec8396ba0f" name="Yardim" baseClass="XPObject" userFileName="Yardim" designerFileName="Yardim.Designer" className="Yardim" virtualName="Yardim">
+        <fields>
+          <generalXpObjectHasFields Id="26130b2c-67ab-4614-a1b8-fbe098206f07">
+            <field Id="8b112c7c-09d8-4d58-a284-280456b4649a" name="YardimTipi" virtualColumnType="YardimTipi" logicalType="YardimTipi" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="013477ae-9011-4ae8-b5fa-c5e261e04097">
+            <field Id="e26f0c28-e9db-4b15-9d05-a64eba427415" name="Kisi" virtualColumnType="Kisi" logicalType="Kisi" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="044c571d-68a6-4d66-bf0f-44b0143b09ac">
+            <field Id="93ac8bf6-3c3c-4db6-b8c9-cc4ed2e03c15" name="TarihBaslangic" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="ef4860cb-7bdb-4bec-be1f-bdab25a1caa1">
+            <field Id="70a6016c-a657-4607-b2b9-dc0a3957ec0b" name="TarihBitis" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="01f0958e-dfd7-48e3-952b-d5342c1d6708">
+            <field Id="205397c5-e78a-45fe-80e5-0c5aebd8a9de" name="Aktif" columnType="Boolean" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="e2a2b369-7c9e-4bb2-8a22-0d526c474048" sourceCollectionName="Teslimatlar" name="TeslimatReferencesYardim" targetFieldName="Yardim">
+            <xpObjectMoniker Id="16bcfe59-60d5-4294-8194-150a145fd616" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="3d1f10a1-40d7-4dca-8356-ef756eb2d505">
+            <collectionField Id="2a22baee-900c-4b06-91bc-6e475ba84e96" name="Teslimatlar" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="9275fc5f-bd52-409a-a3e4-2323f3e54cbd">
+      <xpObject Id="16bcfe59-60d5-4294-8194-150a145fd616" name="Teslimat" baseClass="XPObject" userFileName="Teslimat" designerFileName="Teslimat.Designer" className="Teslimat" virtualName="Teslimat">
+        <fields>
+          <generalXpObjectHasFields Id="75766396-05b9-4244-be8b-a4c6dcb22e35">
+            <field Id="16eb309b-073d-4935-a3f1-11ce46831aef" name="Yardim" virtualColumnType="Yardim" logicalType="Yardim" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5cc6a5a9-766e-47ee-889e-15c2c9f61faf">
+            <field Id="35f47ed5-6c39-4632-b056-2de63bc4576f" name="Durum" virtualColumnType="SosyalYardim.Module.BusinessObjects.ETeslimatDurum" logicalType="SosyalYardim.Module.BusinessObjects.ETeslimatDurum" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+  <externalTypes>
+    <dataBaseObjectModelHasExternalTypes Id="5eb8d799-5980-449f-af3d-58d5be205821">
+      <externalType Id="a8edeabf-01c6-4ffa-bbdc-b3e3434abd21" name="ETeslimatDurum" namespace="SosyalYardim.Module.BusinessObjects" />
+    </dataBaseObjectModelHasExternalTypes>
+  </externalTypes>
+</dataBaseObjectModel>
